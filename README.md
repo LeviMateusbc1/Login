@@ -1,1 +1,1 @@
-# Login
+#Neste código, cadastrei um usuário como exemplo, com o usuário :Levi e a senha:1234. Ao fazer este login, aparecerá que o login foi efetuado com sucesso, caso o login ou senha não tenha sido cadastrado, aparecerá usuário inválido.
